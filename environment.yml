@@ -8,8 +8,5 @@ dependencies:
   - rasterio
   - statsmodels
   - scikit-learn
-  - pip
-  - pip:
-    - xgboost
 
 
